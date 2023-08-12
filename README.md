@@ -1,4 +1,4 @@
-# Movie Review App README
+# Movie Review App
 
 ## Introduction
 
