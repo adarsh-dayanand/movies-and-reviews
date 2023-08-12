@@ -66,7 +66,8 @@ Explain how users can use your app after installation. Provide example commands 
 
 ## Screenshots
 
-![Movie Reviewer Application](image.png)
+![image](https://github.com/brundabharadwaj/movies-and-reviews/assets/49773125/37addd8e-1fee-4fc1-b8bf-f1bcb56cce25)
+
 
 ## Technologies Used
 
