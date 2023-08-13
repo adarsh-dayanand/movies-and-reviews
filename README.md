@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Provide a brief introduction to your movie review app. Explain what the app does, its purpose, and why users might find it useful. 
+Simple application to provide movie reviews
 
 ## Table of Contents
 
