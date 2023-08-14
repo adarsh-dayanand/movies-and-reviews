@@ -74,7 +74,7 @@ Explain how users can use your app after installation. Provide example commands 
 List the technologies, frameworks, and libraries you used to develop the app. For example:
 
 - Frontend: React, Redux
-- Backend: Node.js, Express
+- Backend: Java
 - Database: MongoDB
 
 # Contributing Guidelines
